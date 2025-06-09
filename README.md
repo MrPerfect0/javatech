@@ -11,6 +11,8 @@ Project Name : Javatech
 - Swagger UI (OpenAPI)
 - Structured logging with Logback
 - Global exception handling
+- Unit test cases
+- Github Actions
 
 ## Setup
 1. Update `src/main/resources/application.properties` with your MS SQL credentials.
